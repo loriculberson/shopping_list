@@ -1,0 +1,10 @@
+Shopping List 
+* find unit price and calculate tax
+* methods for cheaper than and more expensive than
+
+Item Repository
+* items are kept here
+* it will find items for us
+
+Item
+* initialized with name, quantity and unit price
